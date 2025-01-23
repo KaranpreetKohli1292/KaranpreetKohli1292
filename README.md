@@ -51,8 +51,8 @@ I am an Integration Specialist with **13 years of experience** in Enterprise Int
 
 ## 📫 Let's Connect!
 - **Email:** [karanpreetkohli@gmail.com](mailto:karanpreetkohli@gmail.com)
-- **LinkedIn:** [LinkedIn Profile](#) https://www.linkedin.com/in/karanpreet-singh-kohli-77a4b019
-- **GitHub:** [GitHub Profile](#) *(Add your GitHub link here)*
+- **LinkedIn:** https://www.linkedin.com/in/karanpreet-singh-kohli-77a4b019
+- **GitHub:** https://github.com/KaranpreetKohli1292/KaranpreetKohli1292
 
 ---
 
